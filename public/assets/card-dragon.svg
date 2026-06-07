@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="720" viewBox="0 0 520 720">
+<defs>
+<linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#2a160f"/><stop offset="1" stop-color="#9a5122"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#2b1e0f" flood-opacity=".28"/></filter>
+<radialGradient id="shine" cx="35%" cy="15%" r="75%"><stop offset="0" stop-color="#ffffff" stop-opacity=".72"/><stop offset=".35" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#000" stop-opacity=".08"/></radialGradient>
+</defs>
+<rect width="520" height="720" rx="40" fill="#f7f0e5"/>
+<rect x="38" y="38" width="444" height="644" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+<rect x="56" y="56" width="408" height="70" rx="8" fill="#f8f4ee" stroke="#c9a66b"/>
+<text x="76" y="86" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#7b551c">CV</text>
+<text x="124" y="82" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#1c1713">Draconic Sovereign</text>
+<text x="124" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b6257">Chronicles</text>
+<text x="411" y="84" text-anchor="middle" font-family="Arial" font-size="14" fill="#1c1713">GEM MT</text>
+<text x="411" y="112" text-anchor="middle" font-family="Georgia" font-size="32" font-weight="700" fill="#1c1713">10</text>
+<rect x="74" y="150" width="372" height="428" rx="16" fill="url(#g)"/>
+<rect x="74" y="150" width="372" height="428" rx="16" fill="url(#shine)"/>
+<path d="M96 540 L424 184" stroke="#fff" stroke-opacity=".18" stroke-width="28"/>
+<path d="M118 188 H402 V540 H118 Z" fill="none" stroke="#f0d8a2" stroke-opacity=".62" stroke-width="3"/>
+<path d="M158 407c88-184 162-191 213-78 38 82-25 138-88 130-53-7-99-24-125-52z" fill="#101010" opacity=".65"/><path d="M203 365c27-108 116-160 152-21-39-20-79-15-152 21z" fill="#e3a34f" opacity=".65"/><path d="M232 395c66-102 116-98 135-45 18 53-58 108-135 45z" fill="#161616"/><path d="M270 338l-24-82 53 64 50-82-13 101" fill="#111" stroke="#d0a256" stroke-width="5"/><circle cx="311" cy="374" r="10" fill="#f2c26b"/>
+<rect x="98" y="594" width="324" height="56" rx="10" fill="#1d1813" opacity=".88"/>
+<text x="260" y="628" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#e5c06e">DRACONIC SOVEREIGN</text>
+<text x="260" y="666" text-anchor="middle" font-family="Arial" font-size="13" fill="#927039">CARDVAULT AUTHENTIC</text>
+</svg>

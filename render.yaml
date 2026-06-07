@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: cardvault
+    env: python
+    plan: starter
+    buildCommand: ""
+    startCommand: "python server.py"
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: INITIAL_ADMIN_EMAIL
+        value: admin@example.com
+      - key: INITIAL_ADMIN_PASSWORD
+        sync: false
+      - key: CARDVAULT_DB
+        value: data/cardvault.sqlite3
